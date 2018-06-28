@@ -8,8 +8,6 @@ This course contains the same content presented on Coursera beginning in 2013. I
 
 Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python).
 
-![certificate](certificate.png)
-
 ## Syllabus
 
 * Week 1 - Introduction to the course - machine learning and neural nets 
